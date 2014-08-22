@@ -2,7 +2,7 @@ ntru-haskell
 ============
 
 A Haskell Implementation of the NTRU Cryptographic library, following the IEEE Standard Specification (IEEE Std 1363.1-2008).
-Developed by Paul Li, Theo Levine, Elizabeth Hughes, and Tom Cornelius at Cyberpoint LLC (www.cyberpointllc.com).  Special thanks as well to Ian Blumenfeld.
+Developed by Theo Levine, Elizabeth Hughes, and Tom Cornelius at Cyberpoint LLC (www.cyberpointllc.com).  Special thanks as well to Paul Li and Ian Blumenfeld.
 
 You can build it by running:
 ```
