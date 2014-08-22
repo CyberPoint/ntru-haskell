@@ -2,24 +2,22 @@ ntru-haskell
 ============
 
 A Haskell Implementation of the NTRU Cryptographic library, following the IEEE Standard Specification (IEEE Std 1363.1-2008).
-Developed by Paul Li, Theo Levine, Elizabeth Hughes, and Tom Cornelious at
-Cyberpoint LLC (www.cyberpointllc.com).
+Developed by Paul Li, Theo Levine, Elizabeth Hughes, and Tom Cornelius at Cyberpoint LLC (www.cyberpointllc.com).  Special thanks as well to Ian Blumenfeld.
 
 You can build it by running:
 ```
 cabal install NTRU
 ```
 
-or by downloading it, and then running: 
+or by downloading it and then running: 
 ```
 cabal configure
 cabal build
 cabal install 
 ```
-
 You can ignore the warnings from the build. 
 
-You may need to install some dependencies, such as llvm. 
+A prebuilt hackage is available at http://hackage.haskell.org/package/NTRU. You may need to install some dependencies, such as llvm. 
 
 Please contact opensource@cyberpointllc.com with any questions. 
 
