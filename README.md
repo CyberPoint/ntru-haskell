@@ -16,4 +16,4 @@ cabal install
 
 ##### You may need to install some dependencies, such as llvm. 
 
-##Please contact julrich@cyberpointllc.com with any questions. 
+##Please contact opensource@cyberpointllc.com with any questions. 
