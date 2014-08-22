@@ -5,23 +5,23 @@ A Haskell Implementation of the NTRU Cryptographic library, following the IEEE S
 Developed by Paul Li, Theo Levine, Elizabeth Hughes, and Tom Cornelious at
 Cyberpoint LLC (www.cyberpointllc.com).
 
-### You can build it by running:
+You can build it by running:
 ```
 cabal install NTRU
 ```
 
-### or by downloading it, and then running: 
+or by downloading it, and then running: 
 ```
 cabal configure
 cabal build
 cabal install 
 ```
 
-##### You can ignore the warnings from the build. 
+You can ignore the warnings from the build. 
 
-##### You may need to install some dependencies, such as llvm. 
+You may need to install some dependencies, such as llvm. 
 
-##Please contact opensource@cyberpointllc.com with any questions. 
+Please contact opensource@cyberpointllc.com with any questions. 
 
 Copyright 2013 CyberPoint International LLC.
 
