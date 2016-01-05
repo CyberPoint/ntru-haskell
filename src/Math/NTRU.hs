@@ -3,7 +3,7 @@ Module      : NTRU
 Description : NTRU cryptographic system implementation
 Maintainer  : julrich@cyberpointllc.com
 Stability   : Experimental
-License     : New BSD
+License     : GPL
 
 This is an implementation of the NTRU cryptographic system, following the standard set forth 
 by the IEEE in the document entitled IEEE Standard Specification for Public Key Cryptographic 

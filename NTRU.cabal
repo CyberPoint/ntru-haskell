@@ -19,7 +19,7 @@ synopsis: NTRU Cryptography
 description: A Haskell implementation of the NTRU cryptographic system, following the IEEE Standard Specification for Public Key Crpytographic Techniques Based on Hard Problems over Lattices (IEEE Std 1363.1-2008)
 
 -- The license under which the package is released.
-license:             BSD3
+license:             GPL
 
 -- The file containing the license text.
 license-file:        LICENSE
