@@ -10,7 +10,7 @@ name:                NTRU
 -- PVP summary:      +-+------- breaking API changes
 --                   | | +----- non-breaking API additions
 --                   | | | +--- code changes with no API change
-version:             1.0.0.0
+version:             1.0.0.1
 
 -- A short (one-line) description of the package.
 synopsis: NTRU Cryptography         
@@ -69,5 +69,5 @@ library
   -- other-modules:       
   
   -- Other library packages from which modules are imported.
-  build-depends:       base ==4.6.*, SHA ==1.6.*, split ==0.2.*, containers ==0.5.*, crypto-api ==0.13.*, random ==1.0.*, polynomial ==0.6.*, arithmoi ==0.4.*, bytestring ==0.10.*
+  build-depends:       base ==4.6.*, SHA ==1.6.*, split ==0.2.*, containers ==0.5.*, crypto-api ==0.13.*, random ==1.1.*, polynomial ==0.7.*, arithmoi ==0.4.*, bytestring ==0.10.*
   
